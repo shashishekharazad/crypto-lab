@@ -1,0 +1,143 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CBCMode",
+      "request": "launch",
+      "mainClass": "CBCMode",
+      "projectName": "CryptoLab_2324a28d"
+    },
+    {
+      "type": "java",
+      "name": "ECBMode",
+      "request": "launch",
+      "mainClass": "ECBMode",
+      "projectName": "CryptoLab_2324a28d"
+    },
+    {
+      "type": "java",
+      "name": "DigitalSignatureStandard",
+      "request": "launch",
+      "mainClass": "DigitalSignatureStandard",
+      "projectName": "CryptoLab_2324a28d"
+    },
+    {
+      "type": "java",
+      "name": "SHAHashing",
+      "request": "launch",
+      "mainClass": "SHAHashing",
+      "projectName": "CryptoLab_2324a28d"
+    },
+    {
+      "type": "java",
+      "name": "SHA1Hash",
+      "request": "launch",
+      "mainClass": "SHA1Hash",
+      "projectName": "CryptoLab_2324a28d"
+    },
+    {
+      "type": "java",
+      "name": "DiffieHellman",
+      "request": "launch",
+      "mainClass": "DiffieHellman",
+      "projectName": "CryptoLab_2324a28d"
+    },
+    {
+      "type": "java",
+      "name": "ElGamalAlgo",
+      "request": "launch",
+      "mainClass": "ElGamalAlgo",
+      "projectName": "CryptoLab_2324a28d"
+    },
+    {
+      "type": "java",
+      "name": "ElGamal",
+      "request": "launch",
+      "mainClass": "ElGamal",
+      "projectName": "CryptoLab_2324a28d"
+    },
+    {
+      "type": "java",
+      "name": "RSACode",
+      "request": "launch",
+      "mainClass": "RSACode",
+      "projectName": "CryptoLab_2324a28d"
+    },
+    {
+      "type": "java",
+      "name": "RSAT",
+      "request": "launch",
+      "mainClass": "RSAT",
+      "projectName": "CryptoLab_2324a28d"
+    },
+    {
+      "type": "java",
+      "name": "Attach",
+      "request": "attach",
+      "hostName": "localhost",
+      "port": "<debug port of the debuggee>"
+    },
+    {
+      "type": "java",
+      "name": "Syst",
+      "request": "launch",
+      "mainClass": "Syst",
+      "projectName": "CryptoLab_2324a28d"
+    },
+    {
+      "type": "java",
+      "name": "RSA",
+      "request": "launch",
+      "mainClass": "RSA",
+      "projectName": "CryptoLab_2324a28d"
+    },
+    {
+      "type": "java",
+      "name": "test",
+      "request": "launch",
+      "mainClass": "test",
+      "projectName": "CryptoLab_2324a28d"
+    },
+    {
+      "type": "java",
+      "name": "RSAAlgorithm",
+      "request": "launch",
+      "mainClass": "RSAAlgorithm",
+      "projectName": "CryptoLab_2324a28d"
+    },
+    {
+      "type": "java",
+      "name": "RC4Algorithm",
+      "request": "launch",
+      "mainClass": "RC4Algorithm",
+      "projectName": "CryptoLab_2324a28d"
+    },
+    {
+      "type": "java",
+      "name": "AES",
+      "request": "launch",
+      "mainClass": "AES",
+      "projectName": "CryptoLab_2324a28d"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/DATAs/NITJ/CryptoLab",
+      "program": "d:/DATAs/NITJ/CryptoLab/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
